@@ -1,5 +1,6 @@
-package com.example.JWTImplemenation.User;
+package com.example.JWTImplemenation.Entities;
 
+import com.example.JWTImplemenation.Entities.Enum.Gender;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -27,6 +28,12 @@ public class User implements UserDetails {
     private String firstName;
     private String lastName;
     private String email;
+    private String phone;
+    @Enumerated(EnumType.STRING)
+    private Gender gender;
+    private String avatarUrl;
+    private String address;
+    private boolean status;
     @Enumerated(EnumType.STRING)
     private Role role;
 

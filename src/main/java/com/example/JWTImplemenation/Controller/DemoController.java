@@ -1,4 +1,4 @@
-package com.example.JWTImplemenation.Auth;
+package com.example.JWTImplemenation.Controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "spring-security-416301",
+  "private_key_id": "96bd8a0e2c9d9a01b8a0c6204f564aca8b4af9a3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCowg0hNXigNjjx\nq0gnH68wupNRkQb4F9VsFntSNxS4RamXHsZKe5/SZ1coSCHRNkXT46NbG1OdkWK+\nKZBBeajNzXu6mV2dYKk+gGjpthZEZxdx246xhBf7uM0ia+mdrHs0EWOchbjIxLzG\nNoz74EqdBgTJErJyZJpjwPs7GpZXmaz5u7cfq4+x52CCBclWWLM8quVZbCnS9YOk\nI2BIR/A0RM0ME39XexuFiwl0PGslIgzMiqS5nSGAHLl160Csb1ZUulIZwZMcF9lH\nVrdQx12tQsIs4DdfxrnzfAVrdSHXlNzPwugpT46rSDxbkmHV9yYcN7GLL32FAeMi\nRLZ7gO65AgMBAAECggEAIK1CgZWq/8rAB/uUgw7di1/1OqwMX2muB7nqsya7Olsy\n1XI+DxoU/lbIR6J/+dS6fKbtcKy/6hjGt++wYR0/lGofdShROjIHU3Tl26tIcIJN\nxdwvqyvawQEtp2ah28gUKyba1OoHt8hwjSju766kg/cwYgbeysu0IXCytOUXC2sD\n1P8mwRdnWgo9D64/oIpqQJBWIJCL1pgS2gmu0DUHriYRmzQNZoN/mLKLAF+dMPg6\nrg/hGV6lc5KCtYB05f4AVFKRzi5ccP8jj7EsDlH+kblFlbqCRJuFRYSIO2BYdkee\nx+aEljct1fl19dRf7+xRPAjZAAFwV/I9/Wj7vKvCiQKBgQDSvGqTpPjuXO6+urja\nB4vL/D8y333WGAm+R1No4u+vrsxdDAte8Z0mNj2NbdMn4uhCGTc2lCXohOqxTKWA\n6fV/rFveDLhGqaSWml5zaBWPvwriihcWls4LkThPHT7iyioCYLWgNE5DzVMczn5j\n9MG0PmKGs8g4iIdIst+xeNAk4wKBgQDNAWwtCVxR0dpE3JPB3ImhG/nIz2l/XMDk\nwAOiJTyoOqHg56tRIBbioBLyi5VUg+wCp9DYRf2FMRl0fe/NbZvN0LKS3FWfQGNu\n61S+vBHux0lwN+fAVXaGa21a4bU4gO2tIlOYeW2AV/CbERX5MYiydF1bZtPBOepI\nx8ZQD/mMswKBgGycYU2BHC81xHKWp8jvVLSoaCYfG6rpLrRb7HhFZgUk0P0vxPiF\nDFpyYBzxOn/3KX9Poa5GgpcpUhBZEX+0lSvdOGfkJGF+824PV5ihT2OLsd96DlY9\nGSrLCLt1tkCKs0YQc+uCqce2HhzdrDR2JBNyh7MnG41PiHIGhtXgD17DAoGBALgH\nUeNv5rbwKf7s/5rkbYv5wBXa0zpouiPelqRkxvnBgHWTof92TfTse3XNhaTTs/aC\nTQEIe1eoRtCDCNShU17DvLoHHrmRpHD6wh1iWLq/nRYmqVzHm1l5cDZILVTmr/Ve\nvio+vuSajLu278G+DJcdzHxzZx2q7ryc0VIntP3vAoGBAM9WZ1tV/6CrwhB7Or9Y\nKTmY5XRr9EczbhuS9uAOVud8waUacFaDM5h6Pl4KH0QsYShHII5iHGCoE1vLY72l\nOumrp+Xx6A4pfJKA1QBM5ljyd23zGiBRKdlQThKfNsff42CrKmkc+vAVqpBdiPGu\n7tfXsoJu086AX7+Vc3BVUr9f\n-----END PRIVATE KEY-----\n",
+  "client_email": "googledriveupload@spring-security-416301.iam.gserviceaccount.com",
+  "client_id": "115408423952496297734",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googledriveupload%40spring-security-416301.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

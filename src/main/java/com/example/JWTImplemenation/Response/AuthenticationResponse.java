@@ -1,4 +1,4 @@
-package com.example.JWTImplemenation.Auth;
+package com.example.JWTImplemenation.Response;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-public class AuthenticationResponese {
+public class AuthenticationResponse {
     private String token;
     private String refreshToken;
 }
