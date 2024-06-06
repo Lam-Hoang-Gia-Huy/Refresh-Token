@@ -1,10 +1,8 @@
-package com.example.JWTImplemenation.Entities;
+package com.example.JWTImplemenation.DTO;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
-import jakarta.persistence.ManyToOne;
-import jakarta.persistence.OneToOne;
-import jakarta.persistence.JoinColumn;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -14,10 +12,7 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-@Entity
-public class Appraisal {
-    @Id
-    @GeneratedValue
+public class AppraisalDTO {
     private Integer id;
     private String comments;
     private Integer value;
@@ -29,13 +24,4 @@ public class Appraisal {
     private String crystal;
     private String bracket;
     private String buckle;
-
-    @OneToOne
-    @JoinColumn(name = "watch_id")
-    private Watch watch;
-
-    @ManyToOne
-    @JoinColumn(name = "appraiser_id")
-    private User appraiser;
 }
-
